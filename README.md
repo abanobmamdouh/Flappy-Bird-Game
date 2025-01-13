@@ -1,2 +1,2 @@
 # Flappy-Bird-Game
-Flappy Bird Game py python using pygame
+Flappy Bird Game by python using pygame
